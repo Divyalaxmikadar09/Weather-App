@@ -1,7 +1,5 @@
 Weather App
 
-Weather App
-
 A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScript**, powered by real-time data from the [OpenWeatherMap API](https://openweathermap.org/api).
 
 🔍 Features
